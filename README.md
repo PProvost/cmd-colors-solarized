@@ -87,5 +87,5 @@ Screenshots
 [2]: https://github.com/neilpa/cmd-colors-solarized
 [3]: https://github.com/altercation/solarized
 [4]: https://github.com/altercation/solarized/issues/127
-[5]: https://raw.github.com/neilpa/cmd-colors-solarized/master/cmd-dark.png
-[6]: https://raw.github.com/neilpa/cmd-colors-solarized/master/cmd-light.png
+[5]: https://cdn.rawgit.com/shanselman/cmd-colors-solarized/09cd1e95/cmd-dark.png
+[6]: https://cdn.rawgit.com/shanselman/cmd-colors-solarized/09cd1e95/cmd-light.png
